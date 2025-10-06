@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**MikkelPind/MikkelPind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at the University of Pennsylvania libraries. I split my time there between the Information Desk at the main entrance and the Lippincott Library of the Whartson School of Business. This is how I gain hands-on library experience while I pursue my MLIS degree at Drexel University. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
